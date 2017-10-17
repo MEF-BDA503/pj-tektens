@@ -1,5 +1,14 @@
 # The Progress Journal
 
+## Week 2.5 (Oct 17)
+
+Today we've built our project group. We haven't decided on a name and our dataset yet. The group members are below.
+
++ [Yağmur Ulutürk Tekten](https://mef-bda503.github.io/pj-uluturktekteny/)
++ [Rezan Azizoğlu](https://mef-bda503.github.io/pj-rezan/)
++ [Cem Gürkan](https://mef-bda503.github.io/pj-gurkanc/)
++ [Semih Tekten](https://mef-bda503.github.io/pj-tektens/) (Me)
+
 ## Week 2 (Oct 15)
 
 + [Here](files/st_homework_1.html) is my 5 interesting R examples.
