@@ -1,5 +1,9 @@
 # The Progress Journal
 
+## Week 3 (Oct 23)
+
+I've finished %20 of Udacity course, Data Analysis with R. I'm at Lesson 3, "Explore One Variable".
+
 ## Week 2.5 (Oct 17)
 
 Today we've built our project group. We haven't decided on a name and our dataset yet. The group members are below.
