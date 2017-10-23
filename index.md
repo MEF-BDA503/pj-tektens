@@ -2,7 +2,7 @@
 
 ## Week 3  (Oct 24)
 
-I've finished Homework2. You can find my work [here](files/hw2_tektens.html)
+I've finished HW2. You can find my work [here](files/hw2_tektens.html).
 I should practice more visualization.
 
 ## Week 3 (Oct 23)
