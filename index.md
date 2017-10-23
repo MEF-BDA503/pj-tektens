@@ -1,5 +1,10 @@
 # The Progress Journal
 
+## Week 3  (Oct 24)
+
+I've finished Homework2. You can find my work [here](files/hw2_tektens.html)
+I should practice more visualization.
+
 ## Week 3 (Oct 23)
 
 I've finished 20% of Udacity course, Data Analysis with R. I'm at Lesson 3, "Explore One Variable".
