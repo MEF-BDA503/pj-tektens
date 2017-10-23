@@ -2,7 +2,7 @@
 
 ## Week 3 (Oct 23)
 
-I've finished %20 of Udacity course, Data Analysis with R. I'm at Lesson 3, "Explore One Variable".
+I've finished 20% of Udacity course, Data Analysis with R. I'm at Lesson 3, "Explore One Variable".
 
 ## Week 2.5 (Oct 17)
 
