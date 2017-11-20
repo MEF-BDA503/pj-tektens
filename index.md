@@ -1,5 +1,12 @@
 # The Progress Journal
 
+## Week 5  (Nov 20)
+
+I've studied Dplyr recap file, which you can find [here](https://mef-bda503.github.io/files/tidyverse_recap_p1.html).
+You can find results of final exercises [here](files/dplyr_recap.html).
+<br>
+I was able to solve questions before Final Exercises, but didn't store them for Progress Journal.
+
 ## Week 3  (Oct 24)
 
 I've finished HW2. You can find my work [here](files/hw2_tektens.html).

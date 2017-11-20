@@ -1,0 +1,47 @@
+---
+title: "Dplyr Recap"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Working with Dplyr
+
+Here are the results for Dplyr recap file, "[Final Exercises](https://mef-bda503.github.io/files/tidyverse_recap_p1.html)".
+
+First, call the libraries and load data.
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+library(tidyverse)
+load("travel_weather.RData")
+```
+
+### Question 2
+
+```{r include=TRUE}
+
+travel_weather %>%
+  select(-London,-Venice) %>%
+  filter(NYC>Amsterdam) %>%
+  group_by(year,month) %>%
+  summarise(NYCwA_diff=round(mean(NYC)-mean(Amsterdam),1)) %>%   
+  arrange(desc(NYCwA_diff))
+
+```
+
+### Question 3
+
+```{r include=TRUE}
+
+travel_weather %>%
+  gather(key=City,value=Temperature,-year,-month,-day) %>%
+  group_by(year, month, day) %>%
+  summarise(max_Temperature = max(Temperature), City = City[which.max(Temperature)])
+
+```
+
+<br>
+I couldn't find a method to include City, which has the maximum value of that day, using methods that are explained in our recap file. So I googled for a solution, which is **City = City[which.max(Temperature)]**
+<br><br><br>
