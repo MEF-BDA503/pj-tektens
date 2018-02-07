@@ -1,5 +1,9 @@
 # The Progress Journal
 
+## Final Week (January 10)
+
+Here is my final examination PDF file: [Link](files/final_st.pdf)
+
 ## Week 5  (Nov 20)
 
 I've studied Dplyr recap file, which you can find [here](https://mef-bda503.github.io/files/tidyverse_recap_p1.html).
